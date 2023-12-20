@@ -31,6 +31,6 @@ python main_real.py --model CausalGAT --dataset MUTAG --train_model mgda --mgda_
 ```
 
 ## Data download
-dir datasets can be get in 
+dir datasets can be get in [dir_data_geter]('./dir_data_geter')
 TU datasets can be downloaded when you run ``main_real.py``.
 
