@@ -1,3 +1,6 @@
+# ICASSP 2024: Graph Networks Stand Strong: Enhancing Robustness via Stability Constraints
+This repository contains code for the ICASSP 2024 paper: [Graph Networks Stand Strong: Enhancing Robustness via Stability Constraints](#)
+
 ## Dependencies
 
 Please setup the environment following Requirements in this [repository](https://github.com/chentingpc/gfn#requirements).
@@ -28,6 +31,6 @@ python main_real.py --model CausalGAT --dataset MUTAG --train_model mgda --mgda_
 ```
 
 ## Data download
-dir datasets please look at Folder ``dir_data_geter``  
+dir datasets can be get in 
 TU datasets can be downloaded when you run ``main_real.py``.
 
